@@ -1,0 +1,8 @@
+{
+  "name": "icon-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e0161e04"
+}
